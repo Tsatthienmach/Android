@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/manual"
+        android:title="MANUAL"
+        android:icon="@drawable/manual_mode"
+        />
+    <item
+        android:id="@+id/auto"
+        android:icon="@drawable/auto_mode"
+        android:title="AUTO" />
+
+</menu>

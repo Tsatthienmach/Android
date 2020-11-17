@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="manual">Manual</string>
+    <string name="real_time">Real Time</string>
+    <string name="camera_button">CAMERA</string>
+    <string name="gallery_button">GALLERY</string>
+    <string name="infer_button">INFER</string>
+</resources>

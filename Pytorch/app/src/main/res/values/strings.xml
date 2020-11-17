@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pytorch</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="text_view">TextView</string>
+    <string name="infer_button">INFER</string>
+    <string name="ToDo">TODO</string>
+    <string name="load_button">LOAD</string>
+    <string name="capture_button">CAPTURE</string>
+    <string name="live_button">LIVE</string>
+    <string name="switch_btn">MANUAL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
